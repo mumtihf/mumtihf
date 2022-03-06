@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Perkenalkan nama saya **Mumti Hany Farisa**.\
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/mumti-hany-farisa)ku ya.
+Hello! I'm **Mumti Hany Farisa**.\
+If you are interested with my profile, just click [Linkedin](www.linkedin.com/in/mumti-hany-farisa)
 
 <p align="left">
 <a href="https://github.com/mumtihf">
