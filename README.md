@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Hello! I'm **Mumti Hany Farisa**.\
-If you are interested with my profile, just click (www.linkedin.com/in/mumti-hany-farisa)
+Hello! I'm **Mumti Hany Farisa**, a Full-Time Quality Assurance Tester.
+If you are interested in my profile, just click (www.linkedin.com/in/mumti-hany-farisa)
 
 <p align="left">
 <a href="https://github.com/mumtihf">
